@@ -1,12 +1,12 @@
 {
-    "name": "Social Media Anonymizer",
-    "version": "1.0.0",
-    "description": "An anonymization extension for multiple social media websites.",
-    "manifest_version": 2,
-    "browser_action": {},
-    "background": {
-        "scripts": ["index.js"],
-        "persistent": false
-    },
-    "permissions": ["activeTab"]
+	"name": "Social Media Anonymizer",
+	"version": "1.0.0",
+	"description": "An anonymization extension for multiple social media websites.",
+	"manifest_version": 2,
+	"browser_action": {},
+	"background": {
+		"scripts": ["index.js"],
+		"persistent": false
+	},
+	"permissions": ["activeTab"]
 }
