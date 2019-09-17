@@ -11,7 +11,8 @@
 	"eslintConfig": {
 		"extends": "eslint-config-haykam",
 		"env": {
-			"browser": true
+			"browser": true,
+			"webextensions": true
 		}
 	},
 	"scripts": {
